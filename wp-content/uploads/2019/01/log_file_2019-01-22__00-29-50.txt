@@ -1,0 +1,94 @@
+
+---Downloaded files---
+The import files for: Import Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8080
+Data file = /Applications/MAMP/htdocs/wordpress/wp-content/plugins/edge-demo-importer/inc/ocdi/edge.wordpress.xml
+Widget file = /Applications/MAMP/htdocs/wordpress/wp-content/plugins/edge-demo-importer/inc/ocdi/edge-widgets.wie
+Customizer file = /Applications/MAMP/htdocs/wordpress/wp-content/plugins/edge-demo-importer/inc/ocdi/edge-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Camera
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Camera
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Camera
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Buscar - No Title - Imported
+Texto - About Us - Imported
+rpwe_widget - Recent Posts - Site does not support widget
+Archivos - Archives - Imported
+
+Display Contact Info at Header  : 
+
+TF: Contact Us - No Title - Imported
+
+Contact Page Sidebar : 
+
+TF: Contact Us - Contact Us - Imported
+
+Shortcode For Contact Page : 
+
+Texto - Contact us - Imported
+
+WooCommerce Sidebar : 
+
+woocommerce_recent_reviews - Recent Reviews - Site does not support widget
+woocommerce_top_rated_products - Top Rated Products - Site does not support widget
+woocommerce_widget_cart - Cart - Site does not support widget
+woocommerce_layered_nav - Filter by - Site does not support widget
+woocommerce_layered_nav_filters - Active Filters - Site does not support widget
+woocommerce_recently_viewed_products - Recently Viewed Products - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_product_categories - Product Categories - Site does not support widget
+
+Footer Column 1 : 
+
+rpwe_widget - Recent Posts - Site does not support widget
+
+Footer Column 2 : 
+
+woocommerce_products - Products - Site does not support widget
+
+Footer Column 3 : 
+
+Nube de etiquetas - Tag - Imported
+Meta - Meta - Imported
+
+Footer Column 4 : 
+
+Texto - Edge - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
